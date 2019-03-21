@@ -1,7 +1,7 @@
 {
     "pairs": {
         "binance": {
-            "RVN_BTC": {
+            "BTC-RVN": {
                 "strategy": "tssl",
                 "enabled": true,
                 "override": {}
