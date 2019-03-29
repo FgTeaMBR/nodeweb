@@ -4,7 +4,7 @@ const hbs = require('hbs');
 const fs = require('fs');
 
 const app = express();
-const port = process.env.PORT || 3001;
+const port = process.env.PORT || 3011;
 
 hbs.registerPartials(path.join(__dirname, 'views/partials'));
 app.set('view engine', 'hbs');
